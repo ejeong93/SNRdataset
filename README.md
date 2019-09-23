@@ -10,4 +10,4 @@
 * JPY_2K_10K - This data set contains serial number region images of 2,000 Yen and 10,000 Yen.
 
 ## License 
-These data sets are licensed under the MIT License - see the [LICENSE.md](https://github.com/ejeong93/SNRdataset/blob/master/LICENSE/)
+These data sets are licensed under the MIT License - see the [LICENSE.md](https://github.com/ejeong93/SNRdataset/blob/master/LICENSE/) file for the details.
